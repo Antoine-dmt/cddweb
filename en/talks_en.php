@@ -28,6 +28,7 @@ France with Rock-Eval® 6 Thermal Analysis to Evaluate its Stability. Keywords :
 of aquifers. Keywords : Hydrogeology, Poroelasticity, Tides” <br>
 <strong>Haoxuan Sun</strong>, “Metal-silicate silicon isotopic fractionation. Keywords : Cosmochemistry” <br>
 <strong>Valentina Raskina</strong>, “Research and Development of the High Granularity Timing Detector for ATLAS experiment. Keywords : Physics, LHC, CERN, Detector, LGAD” <br>
+<strong>Sébastien Faes</strong>, "A first look on long period coherence in InSigth data"<br>
 <br>
 <h3>
 14h – 17h Presentations – Amphitheatre
@@ -38,7 +39,7 @@ Abstract : Interactions between water and carbonate rocks are involved in variou
 Abstract : The increasing consumption of electrical and electronic equipment has made recycling from end-of-life (EoL) products a key strategy for the stable supply of technology-critical elements and the development of a circular economy as proposed by the European Union (EU). The sustainable supply of indium, which is listed as a critical raw material by EU commission, is a major concern due to its high economic value. As one of major electronic waste (e-waste), liquid crystal display (LCD) panels are a potential resource for indium recovery because the indium-tin oxide layer in the LCD panels contains 80-90 wt% In2O3. Aimed to recycle indium from EoL LCD panels, biohydrometallurgy is environmentally benign as it does not involve highly acidic or alkali as well as toxic chemicals, consumes less energy and is more suitable to extract valuable metals as compared to conventional chemical hydrometallurgy and pyrometallurgy. Here, we develop an innovative and alternative technology to selectively leach indium from EoL LCD panels using Desferrioxamine E (DFOE), a natural chelator-siderophore, which has a less environmental impact compared with chemical synthesized compounds. Furthermore, DFOE exhibits a strong ability to bind indium, meanwhile, the metal complex resulting from the bioleaching has a high stability constant. The indium in the LCD panels first concentrated by a pre-treatment, including dismantling, removing polarizers, crushing, milling and sieving to obtain different size fractions. Characterization of LCD panels was analyzed by scanning electron microscope, X-ray fluorescence, and ICP-MS. The optimal conditions and the best capacity of leaching were determined by analyzing the influence of various parameters, including pH, pulp density, particle size, and the concentration of DFOE. The results showed that at neutral pH and 5 g/L of pulp density, for the smaller particle (<36 μm) with a high DFOE/EoL ratio (i.e. r = 20) corresponded to the highest leaching capacity. <br>
 <strong>Jani Kastikainen</strong>, “Investigations of quantum critical systems”<br>
 Abstract : In this talk, I will describe some aspects of my research on two-dimensional conformal field theories with boundaries. Conformal field theories are examples of quantum field theories that provide effective continuum descriptions of quantum many-body systems near a critical point. When the system has a boundary (a wall or a mirror), its entanglement and correlation properties are affected. After giving a brief introduction to the subject, I will show how entanglement entropies of subsystems and correlation functions of field operators are affected by the boundary. Some parts of my work utilise the relationship between quantum field theory and gravity known as the holographic duality which I might explain depending on time constraints. <br>
-15h05 – Break <br>
+15h – Break <br>
 <strong>Lukas Maderer</strong>, “Measuring the Earth’s density profile with atmospheric neutrinos” <br>
 Abstract : The Earth’s interior has been investigated for centuries to find out its inner structure. By analyzing the propagation of seismic waves one found that our planet consist of an Iron core surrounded by a pyrolytic mantle. Density models like PREM provide an approximate one-dimensional profile of Earth. Yet many theories like core-mantle convections highly depend on exact knowledge of certain densities. In this contribution a novel technique that could improve the understanding of the inner structure of the Earth with atmospheric neutrinos is presented.
 In particle showers triggered by comsic rays interacting with atoms in the atmosphere, high energetic neutrinos are produced continuously. During their propagation through Earth, they undergo so called neutrino oscillations, meaning they change their flavor eigenstate. The probability for this phenomenon to occur depends among others on the electron density along the neutrino path. Neutrino detectors are able to measure the flavor ratio of the detected particles and consequently draw conclusions about the Earths density.
@@ -74,9 +75,7 @@ However, during the first hundred million years, likely as a result of the Moon-
 A quantitative understanding of mixing in the magma ocean is then key to interpreting geochemical observations of very short-lived isotopes.
 In our work, we use 3D numerical simulations in a spherical shell to study convection and quantify the efficiency of mixing processes in a magma ocean.
 Due to the low viscosity of the magma ocean we take into account inertial effects, and also examine the effects of rotation. Our simulations couple convection with a study of Lyapunov exponents to quantify mixing. <br>
-15h05 – Break <br>
-<strong>Samuel Zouari</strong>, “Studying the Galactic center and its variability at Very High Energies with HESS” <br>
-Abstract : The Galactic center is a prime observation target for Very High Energy gamma-rays. A point-like source (possibly linked to the Supermassive Black Hole SgrA*) as well as a diffuse emission covering the central 200pc have been discovered. With now 16 years of survey by HESS and the latest data analysis tools of gammapy, we performed a spectral and morphological study of the GC, and we monitored its flux since 2004, in search of potential variabilty. Although no such variability was found, this study allowed for a better understanding of HESS sensibility to time variations in this region. <br>
+15h – Break <br>
 <strong>Angèle Laurent</strong>, “Source Characterisation of the Very Long Period Earthquakes of the Mayotte 
 ongoing Seismo-Volcanic Crisis” <br>
 Abstract : VLF (Very Low Frequency) events of the ongoing seismovolcanic crisis of Mayotte detected through a single-station time-frequency detector with data that comes from local and regional stations in Mayotte, Comoros and Madagascar. We incorporate OBH (Ocean Bottom Hydrophones) data installed during marine campaigns aboard the R/V Marion Dufresne II, between May and July 2019 [Feuillet et al., 2019], and shorter campaigns since July 2019. The correction of the OBH pressure data into acceleration [An et al., 2017] allow us to perform analysis like location and modelling and observe the complexity of the source mechanism in the VLFs signal at local scale. Event location is performed though spatial 3D back-projection of station-pair cross-correlation functions [Poiata et al., 2016], assuming a velocity of 3.5 km/s.
@@ -129,8 +128,9 @@ planetary environments” <br>
 stars”<br>
 <strong>Baptiste Jost</strong>, “Novel method for joint systematic correction and foreground cleaning and its 
 application to the estimation of cosmic birefringence in Simons Observatory.” <br>
-15h05 – Break <br>
+15h – Break <br>
 <strong>Guest session – PhD candidates from GRNE doctoral school</strong> <br>
+<strong> Charles Masquelet </strong>
 <strong>Igor Rzeplinski</strong>, “Xenon chemistry at high pressure, geochemistry concerns” <br>
 <strong>Antoine Collet</strong>, “Automated history matching in reactive transport. Application to the uranium in-
 situ recovery” <br>
@@ -145,7 +145,7 @@ data” <br>
 <strong>Marie Bouih</strong>, “Deep mass redistribution prior to the Maule earthquake revealed by GRACE satellite 
 gravity”<br>
 <strong>Quang Nam Dam</strong>, “Noise propagation in LISA data and model validation with LISANode simulator”<br>
-15h05 – Break <br>
+15h – Break <br>
 <strong>Nirmit Dhabaria</strong>, “An insight into the nature of a 70 Ma old crust and the Moho transition zone 
 across the Saint Paul fracture zone near 18ᵒ W in the Equatorial Atlantic Ocean.” <br>
 <strong>Roxane Tissandier</strong>, “The Mw 8.3 2015 Illapel afterslip imaged through a time-dependent inversion 
@@ -199,7 +199,7 @@ friction from binary black holes”<br>
 microseismicity patterns”<br>
 <strong>Simon Bufféral</strong>, “Investigating the dynamics of the post-alpine dismantling in the Peloponnese 
 (Greece) - a morphological approach”<br>
-15h05 – Break <br>
+15h – Break <br>
 <strong>Linru Fang</strong>, “Half-life and initial Solar System abundance of 146Sm determined from the oldest 
 andesitic meteorite”<br>
 <strong>Julie Rode</strong>, “DarkSide-50: Characterisation of the LAr ionization response in the keV regime”<br>
@@ -213,7 +213,7 @@ of the huygens landing site and application to the analysis of the dragonfly lan
 <strong>Ting Tan</strong>, “Detection of Baryon Acoustic Oscillations using Lyman-α Forests in DESI”<br>
 <strong>Lea Ostorero</strong>, “Correlating diffusive timescales in crystals with monitoring signals leading to 
 explosive eruptions”<br>
-15h05 – Break <br>
+15h – Break <br>
 <strong>Sabrina Menina</strong>, “Earth-Moon-Mars coda attenuation comparison”<br>
 <strong>Souradeep Mahato</strong>, “Strain localization in mid-ocean ridge detachment faults: multiscale study of a 
 nearly amagmatic endmember case (64°40’E Southwest Indian Ridge)”<br>
